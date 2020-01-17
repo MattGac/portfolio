@@ -1,0 +1,11 @@
+@media all and (max-width:480px){
+    .main-nav {
+        height: auto;
+        min-height: 50px;
+    }
+    .main-nav ul{
+        display: none;
+    }
+    
+
+}
